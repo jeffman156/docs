@@ -1,5 +1,5 @@
 ---
-title: Apps
+title: Appshttps://github.com/brave/brave-browser/pull/18894#issue-1031639486
 intro: You can automate and streamline your workflow by building your own apps.
 redirect_from:
   - /early-access/integrations/
